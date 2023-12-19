@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactfolio/static/css/main.ebec0f12.css",
+    "main.js": "/reactfolio/static/js/main.6361efc4.js",
+    "static/media/karthik.jpg": "/reactfolio/static/media/karthik.19361c1cdcac3606f544.jpg",
+    "static/media/resume.pdf": "/reactfolio/static/media/resume.5a5c94eeb1321ea7b206.pdf",
+    "static/media/8.jpg": "/reactfolio/static/media/8.3fab4998e452002c2784.jpg",
+    "static/media/1.jpg": "/reactfolio/static/media/1.a9f3554d6b5e592121d9.jpg",
+    "static/media/4.jpg": "/reactfolio/static/media/4.039f491da730ce82e2a4.jpg",
+    "static/media/2.jpg": "/reactfolio/static/media/2.c4caeb72a84a802301b0.jpg",
+    "static/media/3.jpg": "/reactfolio/static/media/3.9d7fa72794c73c40ac8b.jpg",
+    "static/media/7.jpg": "/reactfolio/static/media/7.80e934a37c87f30540b2.jpg",
+    "static/media/5.jpg": "/reactfolio/static/media/5.373f577a1eb6faa2046d.jpg",
+    "static/media/6.jpg": "/reactfolio/static/media/6.4d893b93349b54a26fb7.jpg",
+    "index.html": "/reactfolio/index.html",
+    "main.ebec0f12.css.map": "/reactfolio/static/css/main.ebec0f12.css.map",
+    "main.6361efc4.js.map": "/reactfolio/static/js/main.6361efc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebec0f12.css",
+    "static/js/main.6361efc4.js"
+  ]
+}
